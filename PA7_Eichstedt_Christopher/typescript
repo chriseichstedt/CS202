@@ -1,0 +1,24 @@
+Script started on Wed 16 Mar 2016 06:38:51 PM PDT
+]0;christopher@ChristopherEichstedt-LT: ~/Desktop/project7christopher@ChristopherEichstedt-LT:~/Desktop/project7$ make
+g++ -c polynomial.cpp
+g++ main.cpp polynomial.o -o main
+]0;christopher@ChristopherEichstedt-LT: ~/Desktop/project7christopher@ChristopherEichstedt-LT:~/Desktop/project7$ ./main
+polynomial A:(3x^4) + (2x^2) + -5
+polynomial B:(3x^3) + (2x^1) + -5
+polynomial C:(3x^2) + -5
+----------------------
+polynomial A + polynomial B = (4x^4) + (4x^3) + (4x^2) + (4x^1) + 
+polynomial B + polynomial C = (3x^3) + (3x^2) + (3x^1) + 2
+polynomial C + polynomial A = (4x^4) + (4x^3) + (4x^2) + (4x^1) + 
+----------------------
+polynomial A - polynomial B = (4x^4) + (4x^3) + (4x^2) + (4x^1) + -10
+polynomial B - polynomial C = (3x^3) + (3x^2) + (3x^1) + 2
+polynomial C - polynomial A = (4x^4) + (4x^3) + (4x^2) + (4x^1) + -10
+----------------------
+polynomial A * polynomial B = (9x^12) + (4x^10) + (1089x^6) + (9x^4) + (-10x^2) + 
+polynomial B * polynomial C = (9x^6) + (-10x^4) + 
+polynomial C * polynomial A = (9x^8) + (-10x^6) + (19041x^2) + 
+]0;christopher@ChristopherEichstedt-LT: ~/Desktop/project7christopher@ChristopherEichstedt-LT:~/Desktop/project7$ exit
+exit
+
+Script done on Wed 16 Mar 2016 06:39:00 PM PDT

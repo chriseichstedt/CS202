@@ -1,0 +1,132 @@
+Script started on Wed 10 Feb 2016 10:09:16 PM PST
+]0;gabriel@gabriel-HP-G60-Notebook-PC: ~/Desktop/project3gabriel@gabriel-HP-G60-Notebook-PC:~/Desktop/project3$ g++ project3.cpp -o project3
+]0;gabriel@gabriel-HP-G60-Notebook-PC: ~/Desktop/project3gabriel@gabriel-HP-G60-Notebook-PC:~/Desktop/project3$ ./project3
+
+Rent-a-car
+==========
+1. Read data from file
+2. Print out all cars
+3. Estimate car rental
+4. Find most expensive car rental
+5. Print out avaialble cars
+6. Exit
+
+Enter a choice: 1
+
+Please enter a file name: locatin onData
+
+Rent-a-car
+==========
+1. Read data from file
+2. Print out all cars
+3. Estimate car rental
+4. Find most expensive car rental
+5. Print out avaialble cars
+6. Exit
+
+Enter a choice: 2
+
+Hertz 93619
+2014 Toyota Tacoma 115.12 available
+2012 Honda CRV 85.1 unavailable
+2015 Ford Fusion 90.89 unavailable
+2013 GMC Yukon 110.43 unavailable
+2009 Dodge Neon 45.25 available
+
+Alamo 89502
+2011 Toyota Rav4 65.02 available
+2012 Mazda CX5 86.75 available
+2016 Subaru Outback 71.27 unavailable
+2015 Ford F150 112.83 available
+2010 Toyota Corolla 50.36 available
+
+Budget 93035
+2008 Ford Fiesta 42.48 unavailable
+2009 Dodge Charger 55.36 available
+2012 Chevy Volt 89.03 unavailable
+2007 Subaru Legacy 59.19 unavailable
+2010 Nissan Maxima 51.68 available
+
+Rent-a-car
+==========
+1. Read data from file
+2. Print out all cars
+3. Estimate car rental
+4. Find most expensive car rental
+5. Print out avaialble cars
+6. Exit
+
+Enter a choice: 3
+
+1) Hertz
+2) Alamo
+3) Budget
+
+Enter a rental company number: 1
+
+1) 2014 Toyota Tacoma 115.12 
+2) 2012 Honda CRV 85.1 
+3) 2015 Ford Fusion 90.89 
+4) 2013 GMC Yukon 110.43 
+5) 2009 Dodge Neon 45.25 
+
+Enter a vehicle number: 1
+
+Enter how many days would you like to rent for: 1
+
+The total to rent a 2014 Toyota Tacoma for 1 day(s), is $115.12
+
+Rent-a-car
+==========
+1. Read data from file
+2. Print out all cars
+3. Estimate car rental
+4. Find most expensive car rental
+5. Print out avaialble cars
+6. Exit
+
+Enter a choice: 4
+
+Hertz 2014 Toyota Tacoma 
+Alamo 2015 Ford Fusion 
+Budget 2013 GMC Yukon 
+
+Rent-a-car
+==========
+1. Read data from file
+2. Print out all cars
+3. Estimate car rental
+4. Find most expensive car rental
+5. Print out avaialble cars
+6. Exit
+
+Enter a choice: 5
+
+Here are the only available cars:
+
+Hertz 93619
+2014 Toyota Tacoma
+2009 Dodge Neon
+
+Alamo 93619
+2011 Toyota Rav4
+2012 Mazda CX5
+2015 Ford F150
+2010 Toyota Corolla
+
+Budget 93619
+2009 Dodge Charger
+2010 Nissan Maxima
+
+Rent-a-car
+==========
+1. Read data from file
+2. Print out all cars
+3. Estimate car rental
+4. Find most expensive car rental
+5. Print out avaialble cars
+6. Exit
+
+Enter a choice: 6
+]0;gabriel@gabriel-HP-G60-Notebook-PC: ~/Desktop/project3gabriel@gabriel-HP-G60-Notebook-PC:~/Desktop/project3$ exit
+Script done on Wed 10 Feb 2016 10:10:04 PM PST

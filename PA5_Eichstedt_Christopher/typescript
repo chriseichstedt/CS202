@@ -1,0 +1,297 @@
+Script started on Wed 24 Feb 2016 06:01:46 PM PST
+]0;christopher@ChristopherEichstedt-LT: ~/Desktop/project5christopher@ChristopherEichstedt-LT:~/Desktop/project5$ make
+g++ -c String.cpp
+g++ test.cpp String.o -o a.out
+g++ main.cpp String.o -o main
+]0;christopher@ChristopherEichstedt-LT: ~/Desktop/project5christopher@ChristopherEichstedt-LT:~/Desktop/project5$ ./a.out
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (2 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 1
+
+please enter a file name: strings
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (2 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 2
+
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (2 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 3
+
+How would you like to proceed?
+==============================
+1.) copy String A into String B
+2.) copy String B into String A
+1
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (2 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 4
+
+cat has 3 letters.
+cat has 3 letters.
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (2 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 5
+
+How would you like to proceed?
+==============================
+1.) concat String A into String B
+2.) concat String B into String A
+1
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (2 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 6
+
+How would you like to proceed?
+==============================
+1.) compare String A to String B
+1
+
+catcat
+is bigger than
+cat
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (2 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 7
+
+catcat
+cat
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (2 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 8
+
+]0;christopher@ChristopherEichstedt-LT: ~/Desktop/project5christopher@ChristopherEichstedt-LT:~/Desktop/project5$ ./main
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (10 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 1
+
+please enter a file name: strings
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (10 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 2
+
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (10 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 3
+
+How would you like to proceed?
+==============================
+1.) copy String A into String B
+2.) copy String B into String A
+2
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (10 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 4
+
+grapes has 6 letters.
+grapes has 6 letters.
+orange has 6 letters.
+banana has 6 letters.
+pear has 4 letters.
+grape has 5 letters.
+grapefruit has 10 letters.
+peach has 5 letters.
+Lemon has 5 letters.
+Lime has 4 letters.
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (10 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 5
+
+How would you like to proceed?
+==============================
+1.) concat String A into String B
+2.) concat String B into String A
+1
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (10 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 6
+
+How would you like to proceed?
+==============================
+1.) compare String A to String B
+1
+
+grapesgrapes
+is bigger than
+grapes
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (10 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 7
+
+grapesgrapes
+grapes
+orange
+banana
+pear
+grape
+grapefruit
+peach
+Lemon
+Lime
+
+Project 5 Menu
+==============
+1.)open file
+2.)initialize string (10 at a time)
+3.)copy string
+4.)string length
+5.)string concat
+6.)string compare
+7.)print string
+8.)exit
+
+Make a selection: 9 8
+
+]0;christopher@ChristopherEichstedt-LT: ~/Desktop/project5christopher@ChristopherEichstedt-LT:~/Desktop/project5$ w[Kexit
+exit
+
+Script done on Wed 24 Feb 2016 06:03:17 PM PST

@@ -1,0 +1,36 @@
+Script started on Wed 27 Jan 2016 05:27:00 PM PST
+]0;gabriel@gabriel-HP-G60-Notebook-PC: ~/Desktop/project1gabriel@gabriel-HP-G60-Notebook-PC:~/Desktop/project1$ exit[1Pnd./project1g++ project1.cpp -o projecct1
+]0;gabriel@gabriel-HP-G60-Notebook-PC: ~/Desktop/project1gabriel@gabriel-HP-G60-Notebook-PC:~/Desktop/project1$ g++ project1.cpp -o projecct1[A]0;gabriel@gabriel-HP-G60-Notebook-PC: ~/Desktop/project1gabriel@gabriel-HP-G60-Notebook-PC:~/Desktop/project1$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pnd./project1
+
+please enter the in-file name: unsorted
+
+Unsorted:
+===========
+Milda
+Dan
+Dale
+Letha
+Kurt
+Daniel
+Kandy
+Tammy
+Malisa
+Corey
+
+please enter the out-file name: sorted
+
+Sorted:
+==========
+Corey
+Dale
+Dan
+Daniel
+Kandy
+Kurt
+Letha
+Malisa
+Milda
+Tammy
+]0;gabriel@gabriel-HP-G60-Notebook-PC: ~/Desktop/project1gabriel@gabriel-HP-G60-Notebook-PC:~/Desktop/project1$ exit
+Script done on Wed 27 Jan 2016 05:27:23 PM PST

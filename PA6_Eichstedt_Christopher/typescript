@@ -1,0 +1,255 @@
+Script started on Wed 09 Mar 2016 10:30:24 PM PST
+]0;christopher@ChristopherEichstedt-LT: ~/Desktop/project6christopher@ChristopherEichstedt-LT:~/Desktop/project6$ make
+g++ -c Agency.cpp
+g++ main.cpp Agency.o -o main
+]0;christopher@ChristopherEichstedt-LT: ~/Desktop/project6christopher@ChristopherEichstedt-LT:~/Desktop/project6$ ./main
+Project 6 Menu
+--------------
+1.) Read in File
+2.) Print Inventory
+3.) Print Available Cars
+4.) Find Most Expensive Car
+5.) Estimate Cost
+6.) Sort by Make
+7.) Sort by Price
+8.) Search by Make
+9.) Exit
+--------------
+Make a selection: 1
+--------------
+Enter a file name: carData
+--------------
+Project 6 Menu
+--------------
+1.) Read in File
+2.) Print Inventory
+3.) Print Available Cars
+4.) Find Most Expensive Car
+5.) Estimate Cost
+6.) Sort by Make
+7.) Sort by Price
+8.) Search by Make
+9.) Exit
+--------------
+Make a selection: 2
+--------------
+National 93619
+#1 Toyota Tacoma 2014 $115.12, available: true
+#2 Honda CRV 2012 $85.1, available: false
+#3 Ford Fusion 2015 $90.89, available: false
+#4 GMC Yukon 2013 $110.43, available: false
+#5 Dodge Neon 2009 $45.25, available: true
+#6 Toyota Rav4 2011 $65.02, available: true
+#7 Mazda CX5 2012 $86.75, available: true
+#8 Subaru Outback 2016 $71.27, available: false
+#9 Ford F150 2015 $112.83, available: true
+#10 Toyota Corolla 2010 $50.36, available: true
+#11 Ford Fiesta 2008 $42.48, available: false
+#12 Dodge Charger 2009 $55.36, available: true
+#13 Chevy Volt 2012 $89.03, available: false
+#14 Subaru Legacy 2007 $59.19, available: false
+#15 Nissan Maxima 2010 $51.68, available: true
+--------------
+Project 6 Menu
+--------------
+1.) Read in File
+2.) Print Inventory
+3.) Print Available Cars
+4.) Find Most Expensive Car
+5.) Estimate Cost
+6.) Sort by Make
+7.) Sort by Price
+8.) Search by Make
+9.) Exit
+--------------
+Make a selection: 3
+--------------
+Toyota Tacoma 2014 $115.12, available: true
+Dodge Neon 2009 $45.25, available: true
+Toyota Rav4 2011 $65.02, available: true
+Mazda CX5 2012 $86.75, available: true
+Ford F150 2015 $112.83, available: true
+Toyota Corolla 2010 $50.36, available: true
+Dodge Charger 2009 $55.36, available: true
+Nissan Maxima 2010 $51.68, available: true
+--------------
+Project 6 Menu
+--------------
+1.) Read in File
+2.) Print Inventory
+3.) Print Available Cars
+4.) Find Most Expensive Car
+5.) Estimate Cost
+6.) Sort by Make
+7.) Sort by Price
+8.) Search by Make
+9.) Exit
+--------------
+Make a selection: 4
+--------------
+Toyota Tacoma 2014 $115.12, available: true
+--------------
+Project 6 Menu
+--------------
+1.) Read in File
+2.) Print Inventory
+3.) Print Available Cars
+4.) Find Most Expensive Car
+5.) Estimate Cost
+6.) Sort by Make
+7.) Sort by Price
+8.) Search by Make
+9.) Exit
+--------------
+Make a selection: 5
+--------------
+National 93619
+#1 Toyota Tacoma 2014 $115.12, available: true
+#2 Honda CRV 2012 $85.1, available: false
+#3 Ford Fusion 2015 $90.89, available: false
+#4 GMC Yukon 2013 $110.43, available: false
+#5 Dodge Neon 2009 $45.25, available: true
+#6 Toyota Rav4 2011 $65.02, available: true
+#7 Mazda CX5 2012 $86.75, available: true
+#8 Subaru Outback 2016 $71.27, available: false
+#9 Ford F150 2015 $112.83, available: true
+#10 Toyota Corolla 2010 $50.36, available: true
+#11 Ford Fiesta 2008 $42.48, available: false
+#12 Dodge Charger 2009 $55.36, available: true
+#13 Chevy Volt 2012 $89.03, available: false
+#14 Subaru Legacy 2007 $59.19, available: false
+#15 Nissan Maxima 2010 $51.68, available: true
+--------------
+Enter a car number: 1
+Enter the amount of days: 1
+Your total is $115.12
+--------------
+Project 6 Menu
+--------------
+1.) Read in File
+2.) Print Inventory
+3.) Print Available Cars
+4.) Find Most Expensive Car
+5.) Estimate Cost
+6.) Sort by Make
+7.) Sort by Price
+8.) Search by Make
+9.) Exit
+--------------
+Make a selection: 6
+--------------
+--------------
+Project 6 Menu
+--------------
+1.) Read in File
+2.) Print Inventory
+3.) Print Available Cars
+4.) Find Most Expensive Car
+5.) Estimate Cost
+6.) Sort by Make
+7.) Sort by Price
+8.) Search by Make
+9.) Exit
+--------------
+Make a selection: 2
+--------------
+National 93619
+#1 Toyota Tacoma 2014 $115.12, available: true
+#2 Honda CRV 2012 $85.1, available: false
+#3 Ford Fusion 2015 $90.89, available: false
+#4 GMC Yukon 2013 $110.43, available: false
+#5 Dodge Neon 2009 $45.25, available: true
+#6 Toyota Rav4 2011 $65.02, available: true
+#7 Mazda CX5 2012 $86.75, available: true
+#8 Subaru Outback 2016 $71.27, available: false
+#9 Ford F150 2015 $112.83, available: true
+#10 Toyota Corolla 2010 $50.36, available: true
+#11 Ford Fiesta 2008 $42.48, available: false
+#12 Dodge Charger 2009 $55.36, available: true
+#13 Chevy Volt 2012 $89.03, available: false
+#14 Subaru Legacy 2007 $59.19, available: false
+#15 Nissan Maxima 2010 $51.68, available: true
+--------------
+Project 6 Menu
+--------------
+1.) Read in File
+2.) Print Inventory
+3.) Print Available Cars
+4.) Find Most Expensive Car
+5.) Estimate Cost
+6.) Sort by Make
+7.) Sort by Price
+8.) Search by Make
+9.) Exit
+--------------
+Make a selection: 7
+--------------
+--------------
+Project 6 Menu
+--------------
+1.) Read in File
+2.) Print Inventory
+3.) Print Available Cars
+4.) Find Most Expensive Car
+5.) Estimate Cost
+6.) Sort by Make
+7.) Sort by Price
+8.) Search by Make
+9.) Exit
+--------------
+Make a selection: 2
+--------------
+National 93619
+#1 Ford Fiesta 2008 $42.48, available: false
+#2 Dodge Neon 2009 $45.25, available: true
+#3 Toyota Corolla 2010 $50.36, available: true
+#4 Nissan Maxima 2010 $51.68, available: true
+#5 Dodge Charger 2009 $55.36, available: true
+#6 Subaru Legacy 2007 $59.19, available: false
+#7 Toyota Rav4 2011 $65.02, available: true
+#8 Subaru Outback 2016 $71.27, available: false
+#9 Honda CRV 2012 $85.1, available: false
+#10 Mazda CX5 2012 $86.75, available: true
+#11 Chevy Volt 2012 $89.03, available: false
+#12 Ford Fusion 2015 $90.89, available: false
+#13 GMC Yukon 2013 $110.43, available: false
+#14 Ford F150 2015 $112.83, available: true
+#15 Toyota Tacoma 2014 $115.12, available: true
+--------------
+Project 6 Menu
+--------------
+1.) Read in File
+2.) Print Inventory
+3.) Print Available Cars
+4.) Find Most Expensive Car
+5.) Estimate Cost
+6.) Sort by Make
+7.) Sort by Price
+8.) Search by Make
+9.) Exit
+--------------
+Make a selection: 8
+--------------
+Enter the make of a vehicle: Ford
+Ford Fiesta 2008 $42.48, available: false
+Ford Fusion 2015 $90.89, available: false
+Ford F150 2015 $112.83, available: true
+--------------
+Project 6 Menu
+--------------
+1.) Read in File
+2.) Print Inventory
+3.) Print Available Cars
+4.) Find Most Expensive Car
+5.) Estimate Cost
+6.) Sort by Make
+7.) Sort by Price
+8.) Search by Make
+9.) Exit
+--------------
+Make a selection: 9
+--------------
+]0;christopher@ChristopherEichstedt-LT: ~/Desktop/project6christopher@ChristopherEichstedt-LT:~/Desktop/project6$ exit
+exit
+
+Script done on Wed 09 Mar 2016 10:31:01 PM PST

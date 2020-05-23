@@ -1,0 +1,111 @@
+Script started on Wed 03 Feb 2016 04:56:02 PM PST
+]0;gabriel@gabriel-HP-G60-Notebook-PC: ~/Desktop/project2gabriel@gabriel-HP-G60-Notebook-PC:~/Desktop/project2$ exit./project2g++ project2.cpp -o projecct2[A]0;gabriel@gabriel-HP-G60-Notebook-PC: ~/Desktop/project2gabriel@gabriel-HP-G60-Notebook-PC:~/Desktop/project2$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg++ project2.cpp -o projecct2
+]0;gabriel@gabriel-HP-G60-Notebook-PC: ~/Desktop/project2gabriel@gabriel-HP-G60-Notebook-PC:~/Desktop/project2$ g++ project2.cpp -o projecct2[A]0;gabriel@gabriel-HP-G60-Notebook-PC: ~/Desktop/project2gabriel@gabriel-HP-G60-Notebook-PC:~/Desktop/project2$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./project2[6Pexit./project2
+
+Rent-a-car
+==========
+1. Read data from file
+2. Print out all cars
+3. Estimate car rental
+4. Find most expensive car rental
+5. Print out avaialble cars
+6. Exit
+
+Enter a choice: 1
+Please enter a filename: carData
+
+Rent-a-car
+==========
+1. Read data from file
+2. Print out all cars
+3. Estimate car rental
+4. Find most expensive car rental
+5. Print out avaialble cars
+6. Exit
+
+Enter a choice: 2
+
+#1 2014 Toyota Tacoma, $115.12 a day, currently available
+#2 2012 Honda CRV, $85.1 a day, currently unavailable
+#3 2015 Ford Fusion, $90.89 a day, currently unavailable
+#4 2013 GMC Yukon, $110.43 a day, currently unavailable
+#5 2009 Dodge Neon, $45.25 a day, currently available
+#6 2011 Toyota Rav4, $65.02 a day, currently available
+#7 2012 Mazda CX5, $86.75 a day, currently available
+#8 2016 Subaru Outback, $71.27 a day, currently unavailable
+#9 2015 Ford F150, $112.83 a day, currently available
+#10 2010 Toyota Corolla, $50.36 a day, currently available
+
+Rent-a-car
+==========
+1. Read data from file
+2. Print out all cars
+3. Estimate car rental
+4. Find most expensive car rental
+5. Print out avaialble cars
+6. Exit
+
+Enter a choice: 3
+
+#1 2014 Toyota Tacoma, $115.12 a day, currently available
+#2 2012 Honda CRV, $85.1 a day, currently unavailable
+#3 2015 Ford Fusion, $90.89 a day, currently unavailable
+#4 2013 GMC Yukon, $110.43 a day, currently unavailable
+#5 2009 Dodge Neon, $45.25 a day, currently available
+#6 2011 Toyota Rav4, $65.02 a day, currently available
+#7 2012 Mazda CX5, $86.75 a day, currently available
+#8 2016 Subaru Outback, $71.27 a day, currently unavailable
+#9 2015 Ford F150, $112.83 a day, currently available
+#10 2010 Toyota Corolla, $50.36 a day, currently available
+
+Please enter the number for the rental you want to estimate: 1
+How many days would you like to rent: 1
+
+The total price is $115.12 to rent the 2014 Toyota Tacoma for 1 day(s).
+
+Rent-a-car
+==========
+1. Read data from file
+2. Print out all cars
+3. Estimate car rental
+4. Find most expensive car rental
+5. Print out avaialble cars
+6. Exit
+
+Enter a choice: 4
+
+The most expensive car is the 2014 Toyota Tacoma at $115.12 a day.
+
+Rent-a-car
+==========
+1. Read data from file
+2. Print out all cars
+3. Estimate car rental
+4. Find most expensive car rental
+5. Print out avaialble cars
+6. Exit
+
+Enter a choice: 5
+
+Here are the only available cars:
+2014 Toyota Tacoma $115.12
+2009 Dodge Neon $45.25
+2011 Toyota Rav4 $65.02
+2012 Mazda CX5 $86.75
+2015 Ford F150 $112.83
+2010 Toyota Corolla $50.36
+
+Rent-a-car
+==========
+1. Read data from file
+2. Print out all cars
+3. Estimate car rental
+4. Find most expensive car rental
+5. Print out avaialble cars
+6. Exit
+
+Enter a choice: 6
+]0;gabriel@gabriel-HP-G60-Notebook-PC: ~/Desktop/project2gabriel@gabriel-HP-G60-Notebook-PC:~/Desktop/project2$ exit
+Script done on Wed 03 Feb 2016 04:56:46 PM PST
